@@ -28,6 +28,7 @@
 
 ## Honors and Awards
 
+- 2023 National Scholarship Recipient at NorthWest Normal University
 
 
 
