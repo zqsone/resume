@@ -9,7 +9,7 @@
 
 ## Education
 
-### South China University of Technology, Guangzhou, China <span class="right" style="float:right">2023.9 ~ now</span>
+### South China University of Technology, Guangzhou, China $\qquad$ 2023.9 ~ now</span>
 
 - Ph.D. Candidate in Bioinformatics
 
