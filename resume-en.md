@@ -2,46 +2,26 @@
      <h1>Qingsong Zhang</h1>
      <div>
          <span>
-             Male
-         </span>
-<!--          <span>
-             Age: 27
-         </span> -->
-         <span>
-             Guangzhou
-         </span>
-<!--          <span>
-             Objective: Android Engineer
-         </span> -->
-     </div>
-     <div>
-         <span>
-             <img src="resume/phone.svg" width="18px">
-             139 xxxx xxxx
-         </span>
-         <span>
-             <img src="resume/weixin.svg" width="18px">
-             WechatAccount
-         </span>
-         <span>
-             <img src="resume/email.svg" width="18px">
-             <a href="mailto:example@example.com">example@example.com</a>
-         </span>
-         <span>
-             <img src="resume/website.svg" width="18px">
-             <a href="https://www.paincker.com">www.paincker.com</a>
+             <a href="mailto:example@example.com">zqsone@163.com</a>
          </span>
      </div>
  </center>
 
-## <img src="resume/education.svg" height="20px"> Education
+## Education
 
-### Xidian University, Shaanxi, China <span class="right" style="float:right">2011.9 ~ 2015.7</span>
+### South China University of Technology, Guangzhou, China <span class="right" style="float:right">2023.9 ~ now</span>
 
-- B.S. in Telecommunications Engineering
-- CET4 / CET6 passed
+- Ph.D. Candidate in Bioinformatics
 
-## <img src="resume/project.svg" height="20px"> Professional Experience
+### NorthWest Normal University, Lanzhou, China <span class="right" style="float:right">2020.9 ~ 2023.7</span>
+
+- M.S in Industrial big data, soft sensor
+
+### Xuchang University, Xuchang, China <span class="right" style="float:right">2015.9 ~ 2019.7</span>
+
+- B.S in School of Information Engineering
+
+## Publications
 
 ### Meituan Waimai Customer App, Beijing, Android Engineer  <span class="right" style="float:right">2015.7 ~ 2018.10</span>
 
