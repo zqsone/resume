@@ -1,4 +1,9 @@
 # 个人简历
 
-## 基本信息
-_**姓名**：
+## Contact Information
+**Email**：zqsone@163.com
+
+## Education
+## South China University of Technology
+
+
