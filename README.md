@@ -9,15 +9,15 @@
 
 ## Education
 
-### South China University of Technology, Guangzhou, China $\qquad\qquad$ 2023.9 ~ now</span>
+### South China University of Technology, Guangzhou, China $\qquad\qquad$ <span class="right" style="float:right">2023.9 ~ now</span>
 
 - Ph.D. Candidate in Bioinformatics
 
-### NorthWest Normal University, Lanzhou, China $\qquad\qquad$ 2020.9 ~ 2023.7</span>
+### NorthWest Normal University, Lanzhou, China $\qquad\qquad$ <span class="right" style="float:right">2020.9 ~ 2023.7</span>
 
 - M.S in Industrial big data, soft sensor
 
-### Xuchang University, Xuchang, China $\qquad\qquad$ 2015.9 ~ 2019.7</span>
+### Xuchang University, Xuchang, China $\qquad\qquad$ <span class="right" style="float:right">2015.9 ~ 2019.7</span>
 
 - B.S in School of Information Engineering
 
