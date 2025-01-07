@@ -24,7 +24,7 @@
 ## Publications
 
 - [Collaborative Apportionment Noise-Based Soft Sensor Framework],[IEEE Transactions on Instrumentation and Measurement],[2022],[DOI:10.1109/TIM.2022.3200088]
-- [Horizontal Data Augmentation Strategy for Industrial Quality Prediction],[ACS Omega],[2022],[DOI:10.1021/acsomega.2c01747](10.1021/acsomega.2c01747)
+- [Horizontal Data Augmentation Strategy for Industrial Quality Prediction],[ACS Omega],[2022],[DOI:10.1021/acsomega.2c01747](https://pubs.acs.org/doi/10.1021/acsomega.2c01747)
 
 ### XXX, Shanghai, Fullstack Engineer<span class="right" style="float:right">2018.10 ~ Now</span>
 
