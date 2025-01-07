@@ -23,14 +23,8 @@
 
 ## Publications
 
-### Meituan Waimai Customer App, Beijing, Android Engineer  <span class="right" style="float:right">2015.7 ~ 2018.10</span>
-
-……
-
-1. **Main developer** and group leader of core business module……
-2. First author of  [WMRouter](https://github.com/meituan/WMRouter), an **open source** Android routing framework with **1.6k Star** on GitHub…….
-4. ……
-4. ……
+- [Collaborative Apportionment Noise-Based Soft Sensor Framework],[IEEE Transactions on Instrumentation and Measurement],[2022],[DOI:10.1109/TIM.2022.3200088]
+- [Horizontal Data Augmentation Strategy for Industrial Quality Prediction],[ACS Omega],[2022],[DOI:10.1021/acsomega.2c01747]
 
 ### XXX, Shanghai, Fullstack Engineer<span class="right" style="float:right">2018.10 ~ Now</span>
 
