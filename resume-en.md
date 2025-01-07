@@ -2,7 +2,7 @@
      <h1>Qingsong Zhang</h1>
      <div>
          <span>
-             <a href="mailto:example@example.com">zqsone@163.com</a>
+             Email : <a href="mailto:example@example.com">zqsone@163.com</a>
          </span>
      </div>
  </center>
