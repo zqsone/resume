@@ -1,18 +1,18 @@
 <center>
-     <h1>Xiao Ming</h1>
+     <h1>Qingsong Zhang</h1>
      <div>
          <span>
              Male
          </span>
-         <span>
+<!--          <span>
              Age: 27
-         </span>
+         </span> -->
          <span>
-             Shanghai
+             Guangzhou
          </span>
-         <span>
+<!--          <span>
              Objective: Android Engineer
-         </span>
+         </span> -->
      </div>
      <div>
          <span>
