@@ -29,21 +29,6 @@
 ## Honors and Awards
 
 
-### Personal Projects
 
-- [PublishMarkdown](https://github.com/jzj1993/PublishMarkdown)：An open source, cross-platform tools for publishing markdown files to WordPress and other blogs, supporting Chinese and English. It provides simple edit and preview functions, and supports code highlighting, MathJax rendering. One-click to publish, images batch upload, and set article attributes automatically. Implemented with Electron and Vue.js.
 
-- **More Projects:** Please visit [my blog](https://www.paincker.com/about).
 
-## <img src="resume/review.svg" height="20px"> Self Assessment
-
-1. **Passionate on solving problems with technical skills, strong learning ability, self motivated.** E.g. ……
-1. ……
-
-## <img src="resume/skill.svg" height="20px"> Skills
-
-★★★ Android (Java)
-
-★★☆ Node.js
-
-★☆☆ Frontend (Vue.js / ES6 / Sass / Bootstrap / Gulp / Webpack 3), Electron, Wechat mini-program, Python, Groovy, PHP, WordPress, C, Embedded development, Circuit design.
