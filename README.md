@@ -32,6 +32,10 @@
   </details>
 - Horizontal Data Augmentation Strategy for Industrial Quality Prediction, ACS Omega, 2022, <br>
   S. Gao, **Q. Zhang**, R. Tian, Z. Ma and X. Dang, DOI:[10.1021/acsomega.2c01747](https://pubs.acs.org/doi/10.1021/acsomega.2c01747)
+    <details>
+       <summary>show more</summary>
+       Abstract:In recent years, neural network-based soft sensor technology has been widely used in industrial production processes and has excellent optimization, monitoring, and quality prediction performance. This paper proposes a horizontal data augmentation strategy to provide highly available data for subsequent prediction models, called the combined autoencoder data augmentation (CADA) strategy. This paper has developed a CADA-based convolutional neural network (CADA-CNN) soft sensor model and applied it to the process of industrial debutanizer and industrial steam volume. In terms of method validation, this paper compares the output data of the proposed CADA by the Spearman correlation coefficient to verify the strategy's feasibility. Then, the output data of the CADA strategy is fed into the artificial neural network (NN), support vector regression (SVR), and convolutional neural network (CNN) for comparison experiments. The final experimental results show that our proposed CADA-CNN model has lower prediction error and better prediction error distribution. <br>
+  </details>
 - BO-MADRSN: Bayesian optimized multi-attention residual shrinkage networks for industrial soft sensor modeling, Measurement, 2023, <br>
   J. Xu, S. Gao, X. Dang, W. Zhao, **Q. Zhang**, S. Qiu, DOI:[10.1016/j.measurement.2023.113477](https://www.sciencedirect.com/science/article/abs/pii/S0263224123010412?via%3Dihub)
 
